@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# FanControl2 - DM920 version with RPM simulation
 # joergm6 IHAD
 # PID-controller by Lukasz S.
 
