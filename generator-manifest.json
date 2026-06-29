@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Temperature dependent fan control",
+  "description_recipe": "",
+  "history_source_dir": "fancontrol2",
+  "internal_package_name": "enigma2-plugin-extensions-fancontrol2",
+  "module_dir_name": "FanControl2",
+  "output_subdir": "fancontrol2",
+  "package_name": "enigma2-plugin-extensions-fancontrol2",
+  "plugin_src_rel": "fancontrol2",
+  "python_package": "FanControl2",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "FanControl2",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}

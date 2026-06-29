@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-13 12:04+0200\n"
+"PO-Revision-Date: 2011-07-13 18:30+0100\n"
+"Last-Translator: joergm6 <joergm6@online.de>\n"
+"Language-Team: french\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-Country: FRENCH\n"
+
+#: ../plugin.py:553 ../plugin.py:555 ../plugin.py:559
+#, python-format
+msgid "%s   %02d C"
+msgstr "%s   %02d C"
+
+#: ../plugin.py:146
+msgid "."
+msgstr ","
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "3Pin"
+msgstr "3Pin"
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "4Pin"
+msgstr "4Pin"
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "4Pin (PID)"
+msgstr ""
+
+#: ../plugin.py:595
+msgid "Action in case of Fan failure"
+msgstr "Action en cas de défaillance du ventilateur"
+
+#: ../plugin.py:607
+msgid "Auto-Delete Data older than (Days)"
+msgstr "Effacement auto données plus vieilles que (en jours)"
+
+#: ../FC2webSite.py:243
+#, python-format
+msgid "Auto-Delete older %s Days"
+msgstr "Effacement-Auto plus vieux que %s jour"
+
+#: ../plugin.py:226
+msgid "Box Shutdown"
+msgstr "Arrêt de la boîte"
+
+#: ../plugin.py:1343
+msgid "Box has no fancontrol hardware -> FC2 deactivated"
+msgstr "La Box n'a pas de matériel fancontrol -> FC2 désactivé"
+
+#: ../plugin.py:596
+msgid "Box shutdown at Temperature (C)"
+msgstr "Arrêter boîte à la température (en C)"
+
+#: ../plugin.py:741
+msgid "Cancel"
+msgstr "Abandon"
+
+#: ../plugin.py:743
+msgid "Check"
+msgstr "Vérifier"
+
+#: ../plugin.py:624
+msgid "Choose path"
+msgstr "Choisir chemin"
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "Control disabled"
+msgstr "Contrôle désactivé"
+
+#: ../plugin.py:562 ../plugin.py:819
+#, python-format
+msgid "Current rpm  %4d"
+msgstr "Rpm actuelles  %4d"
+
+#: ../plugin.py:784
+#, python-format
+msgid "Current value: %s"
+msgstr "Valeur actuelle: %s"
+
+#: ../FC2webSite.py:196 ../FC2webSite.py:232
+msgid "Delete"
+msgstr "Effacer"
+
+#: ../FC2webSite.py:200
+msgid "Delete older 48h"
+msgstr "Effacer plus vieux que 48h"
+
+#: ../FC2webSite.py:189 ../FC2webSite.py:225
+#, python-format
+msgid "Disk free : %d MByte"
+msgstr "Disque libre : %d MByte"
+
+#: ../FC2webSite.py:192 ../FC2webSite.py:228
+msgid "Download"
+msgstr "T&eacute;l&eacute;chargement"
+
+#: ../plugin.py:603
+#, fuzzy
+msgid "Enable Console Logging"
+msgstr "Activer jounal événements"
+
+#: ../plugin.py:606
+msgid "Enable Data Logging"
+msgstr "Activer journal données"
+
+#: ../plugin.py:608
+msgid "Enable Event Logging"
+msgstr "Activer jounal événements"
+
+#: ../plugin.py:609
+msgid "Enable Thread use"
+msgstr ""
+
+#: ../plugin.py:734
+msgid "End temperature C"
+msgstr "Température finale en C"
+
+#: ../plugin.py:441
+msgid "Extended Control Range"
+msgstr "Echelle contrôle étendu"
+
+#: ../plugin.py:1364
+msgid "Fan Control"
+msgstr ""
+
+#: ../plugin.py:1360 ../plugin.py:1365
+msgid "Fan Control 2"
+msgstr ""
+
+#: ../plugin.py:1373
+msgid "Fan Control 2 - Monitor"
+msgstr ""
+
+#: ../plugin.py:1122
+msgid "Fan is not working!"
+msgstr "Le ventilateur ne fonctionne pas!"
+
+#: ../plugin.py:730
+msgid "Fan off in Idle Mode"
+msgstr "Ventilateur stoppé en Idle Mode"
+
+#: ../plugin.py:729
+msgid "Fan type"
+msgstr "Type ventilateur"
+
+#: ../plugin.py:1057
+msgid "FanControl2 emergency, Box Shutdown now?"
+msgstr "Alerte FanControl2, éteindre boîte maintenant ?"
+
+#: ../FC2webSite.py:203 ../FC2webSite.py:240
+#, python-format
+msgid "File %s does not exists"
+msgstr "Le fichier %s n'existe pas"
+
+#: ../FC2webSite.py:185 ../FC2webSite.py:187 ../FC2webSite.py:221
+#: ../FC2webSite.py:223
+#, python-format
+msgid "Filesize : %d %sByte"
+msgstr "Taille fichier : %d %sByte"
+
+#: ../plugin.py:658
+msgid ""
+"GUI needs a restart to apply the changes.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"L'IGU a besoin d'un redémarrage pour appliquer les modifications.\n"
+"Souhaitez-vous relancer l'IGU maintenant ?"
+
+#: ../plugin.py:744
+msgid "Help"
+msgstr "Aide"
+
+#: ../plugin.py:856
+msgid "Information"
+msgstr "Informations"
+
+#: ../plugin.py:736
+msgid "Initial PWM"
+msgstr "PWM initial"
+
+#: ../plugin.py:735
+msgid "Initial Voltage"
+msgstr "Voltage initial"
+
+#: ../plugin.py:605
+msgid "Logging path"
+msgstr "Chemin des journaux"
+
+#: ../FC2webSite.py:242
+#, python-format
+msgid "Logging-Path: %s"
+msgstr "Chemin des journaux: %s"
+
+#: ../plugin.py:439
+#, python-format
+msgid "Max Fan %d rpm at PWM=255 (%s)"
+msgstr "Ventilateur max %d rpm à PWM=255 (%s)"
+
+#: ../plugin.py:461
+#, python-format
+msgid "Max Fan %d rpm at PWM=255 and VLT=255 (%s)"
+msgstr "Ventilateur max %d rpm à PWM=255 et VLT=255 (%s)"
+
+#: ../plugin.py:477
+#, python-format
+msgid "Max Fan %d rpm at VLT=255 (%s)"
+msgstr "Ventilateur max %d rpm à VLT=255 (%s)"
+
+#: ../plugin.py:427
+#, python-format
+msgid "Min Fan Start %d rpm at PWM=%d"
+msgstr "Démarrage ventilateur min %d rpm à PWM=%d"
+
+#: ../plugin.py:469
+#, python-format
+msgid "Min Fan Start %d rpm at VLT=%d"
+msgstr "Démarrage ventilateur min %d rpm à VLT=%d"
+
+#: ../plugin.py:451
+#, python-format
+msgid "Min Fan Start %d rpm at VLT=%d and PWM=0"
+msgstr "Démarrage ventilateur min %d rpm à VLT=%d et PWM=0"
+
+#: ../plugin.py:433
+#, python-format
+msgid "Min Fan Stop %d rpm at PWM=%d (%s)"
+msgstr "Stop ventilateur min %d rpm à PWM=%d (%s)"
+
+#: ../plugin.py:472
+#, python-format
+msgid "Min Fan Stop %d rpm at VLT=%d (%s)"
+msgstr "Stop ventilateur min %d rpm à VLT=%d (%s)"
+
+#: ../plugin.py:454
+#, python-format
+msgid "Min Fan Stop %d rpm at VLT=%d and PWM=0 (%s)"
+msgstr "Stop ventilateur min %d rpm à VLT=%d et PWM=0 (%s)"
+
+#: ../plugin.py:604
+msgid "Number of WebIF-Log-Entries"
+msgstr "Nombre de WebIF-Log-entries"
+
+#: ../plugin.py:834
+#, python-format
+msgid "PID Ctl Err %03.2f %%"
+msgstr ""
+
+#: ../plugin.py:821
+#, python-format
+msgid "PWM  %03d"
+msgstr "PWM  %03d"
+
+#: ../plugin.py:659
+msgid "Restart GUI now?"
+msgstr "Relancer l'IGU maintenant ?"
+
+#: ../plugin.py:742
+msgid "Save"
+msgstr "Sauver"
+
+#: ../FC2webSite.py:85
+msgid "Sensors"
+msgstr "Capteurs"
+
+#: ../plugin.py:600
+msgid "Show Fan Speed as"
+msgstr ""
+
+#: ../plugin.py:602
+msgid "Show Monitor in Extension-Menu"
+msgstr "Montrer Moniteur dans le menu-extension"
+
+#: ../plugin.py:601
+msgid "Show Plugin in Extension-Menu"
+msgstr "Montrer Plugin dans le menu-extension"
+
+#: ../FC2webSite.py:77
+msgid "Speed"
+msgstr "Vitesse"
+
+#: ../plugin.py:733
+msgid "Static temp C"
+msgstr "Température statique C"
+
+#: ../plugin.py:818
+#, python-format
+msgid "Target rpm  %4d"
+msgstr "Rpm cible  %4d"
+
+#: ../FC2webSite.py:76
+msgid "Temperature"
+msgstr "Temp&eacute;rature"
+
+#: ../plugin.py:817
+#, python-format
+msgid "Temperature C  %4.1f"
+msgstr "Température C  %4.1f"
+
+#: ../FC2webSite.py:78
+msgid "Voltage"
+msgstr "Voltage"
+
+#: ../plugin.py:820
+#, python-format
+msgid "Voltage  %03d"
+msgstr "Voltage  %03d"
+
+#: ../FC2webSite.py:171 ../FC2webSite.py:207
+msgid "active"
+msgstr "actif"
+
+#: ../plugin.py:236
+msgid "auto"
+msgstr "automatique"
+
+#: ../__init__.py:26
+msgid "below Tunerslot 4"
+msgstr "à coté fente tuner 4"
+
+#: ../plugin.py:1265
+#, python-format
+msgid "currentRPM:%d targetRPM:%d Temp:%4.1f"
+msgstr "RPM actuelles:%d RPM cible:%d Temp:%4.1f"
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "disabled"
+msgstr "désactivé"
+
+#: ../plugin.py:226
+msgid "display Info"
+msgstr "afficher les infos"
+
+#: ../plugin.py:226
+msgid "do nothing"
+msgstr "ne rien faire"
+
+#: ../plugin.py:597
+msgid "increases overheating protection to (C)"
+msgstr "Augmenter protection contre la surchauffe de (en C)"
+
+#: ../__init__.py:31
+msgid "left near Card-Slot"
+msgstr "gauche près fente-carte"
+
+#: ../__init__.py:30
+msgid "left near Front-CI"
+msgstr "gauche près CI-avant"
+
+#: ../__init__.py:29
+msgid "left of the Battery"
+msgstr "gauche de la batterie"
+
+#: ../plugin.py:732
+msgid "max Speed rpm"
+msgstr "Vitesse max rpm"
+
+#: ../plugin.py:731
+msgid "min Speed rpm"
+msgstr "Vitesse min rpm"
+
+#: ../__init__.py:27
+msgid "near XILINX Spartan"
+msgstr "près spartan XILINX"
+
+#: ../plugin.py:236
+msgid "never"
+msgstr "jamais"
+
+#: ../plugin.py:200 ../plugin.py:209 ../plugin.py:218 ../plugin.py:232
+#: ../plugin.py:236
+msgid "no"
+msgstr "non"
+
+#: ../FC2webSite.py:177 ../FC2webSite.py:213
+msgid "not active"
+msgstr "pas actif"
+
+#: ../__init__.py:32
+msgid "over Security Card"
+msgstr "sur la carte sécurité"
+
+#: ../plugin.py:480
+msgid "please set fan type (3Pin or 4Pin)"
+msgstr ""
+
+#: ../plugin.py:389
+msgid "please wait (until 3min)..."
+msgstr "veuillez patienter (jusqu'à 3min)..."
+
+#: ../plugin.py:561
+msgid "press Info for HDD-Temp"
+msgstr "presser info pour HDD-Temp"
+
+#: ../plugin.py:598
+msgid "read HDD-Temperature in HDD-Standby-Mode"
+msgstr "lire HDD-Température si HDD en Standby-Mode"
+
+#: ../plugin.py:856
+msgid "readme.txt"
+msgstr "readmefr.txt"
+
+#: ../plugin.py:1369
+msgid "setup Fancontol inStandby mode"
+msgstr ""
+
+#: ../FC2webSite.py:174 ../FC2webSite.py:210
+msgid "turn off"
+msgstr "stopper"
+
+#: ../FC2webSite.py:180 ../FC2webSite.py:216
+msgid "turn on"
+msgstr "démarrer"
+
+#: ../__init__.py:33
+msgid "under the Fan"
+msgstr "sous le ventilateur"
+
+#: ../__init__.py:28
+msgid "under the WLAN"
+msgstr "sous le WiFi"
+
+#: ../plugin.py:200 ../plugin.py:209 ../plugin.py:218 ../plugin.py:236
+msgid "yes"
+msgstr "oui"
+
+#: ../plugin.py:200 ../plugin.py:209 ../plugin.py:218
+msgid "yes, Except for Recording or HDD"
+msgstr "oui, sauf pour l'enregistrement/HDD"

@@ -1,0 +1,439 @@
+# FanControl2 Turkish translation
+# Copyright (C) 2026
+# This file is distributed under the same license as the FanControl2 package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: FanControl2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-13 12:04+0200\n"
+"PO-Revision-Date: 2026-04-20 01:44+0300\n"
+"Last-Translator: audi06_19 <info@dreamosat-forum.com>\n"
+"Language-Team: Turkish\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.9\n"
+
+#: ../plugin.py:553 ../plugin.py:555 ../plugin.py:559
+#, python-format
+msgid "%s   %02d C"
+msgstr "%s   %02d C"
+
+#: ../plugin.py:146
+msgid "."
+msgstr "."
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "3Pin"
+msgstr "3Pin"
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "4Pin"
+msgstr "4Pin"
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "4Pin (PID)"
+msgstr "4Pin (PID)"
+
+#: ../plugin.py:595
+msgid "Action in case of Fan failure"
+msgstr "Fan arızası durumunda yapılacak işlem"
+
+#: ../plugin.py:607
+msgid "Auto-Delete Data older than (Days)"
+msgstr "Şu kadar günden eski verileri otomatik sil (Gün)"
+
+#: ../FC2webSite.py:243
+#, python-format
+msgid "Auto-Delete older %s Days"
+msgstr "%s günden eskileri otomatik sil"
+
+#: ../plugin.py:226
+msgid "Box Shutdown"
+msgstr "Cihazı Kapat"
+
+#: ../plugin.py:1343
+msgid "Box has no fancontrol hardware -> FC2 deactivated"
+msgstr "Cihazda fan kontrol donanımı yok -> FC2 devre dışı"
+
+#: ../plugin.py:596
+msgid "Box shutdown at Temperature (C)"
+msgstr "Şu sıcaklıkta cihazı kapat (C)"
+
+#: ../plugin.py:741
+msgid "Cancel"
+msgstr "İptal"
+
+#: ../plugin.py:743
+msgid "Check"
+msgstr "Kontrol et"
+
+#: ../plugin.py:624
+msgid "Choose path"
+msgstr "Yol seçin"
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "Control disabled"
+msgstr "Kontrol devre dışı"
+
+#: ../plugin.py:562 ../plugin.py:819
+#, python-format
+msgid "Current rpm  %4d"
+msgstr "Mevcut rpm  %4d"
+
+#: ../plugin.py:784
+#, python-format
+msgid "Current value: %s"
+msgstr "Mevcut değer: %s"
+
+#: ../FC2webSite.py:196 ../FC2webSite.py:232
+msgid "Delete"
+msgstr "Sil"
+
+#: ../FC2webSite.py:200
+msgid "Delete older 48h"
+msgstr "48 saatten eskilerini sil"
+
+#: ../FC2webSite.py:189 ../FC2webSite.py:225
+#, python-format
+msgid "Disk free : %d MByte"
+msgstr "Boş disk : %d MByte"
+
+#: ../FC2webSite.py:192 ../FC2webSite.py:228
+msgid "Download"
+msgstr "İndir"
+
+#: ../plugin.py:603
+msgid "Enable Console Logging"
+msgstr "Konsol günlüğünü etkinleştir"
+
+#: ../plugin.py:606
+msgid "Enable Data Logging"
+msgstr "Veri günlüğünü etkinleştir"
+
+#: ../plugin.py:608
+msgid "Enable Event Logging"
+msgstr "Olay günlüğünü etkinleştir"
+
+#: ../plugin.py:609
+msgid "Enable Thread use"
+msgstr "Thread kullanımını etkinleştir"
+
+#: ../plugin.py:734
+msgid "End temperature C"
+msgstr "Bitiş sıcaklığı C"
+
+#: ../plugin.py:441
+msgid "Extended Control Range"
+msgstr "Genişletilmiş Kontrol Aralığı"
+
+#: ../plugin.py:1364
+msgid "Fan Control"
+msgstr "Fan Kontrol"
+
+#: ../plugin.py:1360 ../plugin.py:1365
+msgid "Fan Control 2"
+msgstr "Fan Kontrol 2"
+
+#: ../plugin.py:1373
+msgid "Fan Control 2 - Monitor"
+msgstr "Fan Kontrol 2 - İzleyici"
+
+#: ../plugin.py:1122
+msgid "Fan is not working!"
+msgstr "Fan çalışmıyor!"
+
+#: ../plugin.py:730
+msgid "Fan off in Idle Mode"
+msgstr "Boşta modunda fan kapalı"
+
+#: ../plugin.py:729
+msgid "Fan type"
+msgstr "Fan türü"
+
+#: ../plugin.py:1057
+msgid "FanControl2 emergency, Box Shutdown now?"
+msgstr "FanControl2 acil durumu, cihaz şimdi kapatılsın mı?"
+
+#: ../FC2webSite.py:203 ../FC2webSite.py:240
+#, python-format
+msgid "File %s does not exists"
+msgstr "%s dosyası mevcut değil"
+
+#: ../FC2webSite.py:185 ../FC2webSite.py:187 ../FC2webSite.py:221
+#: ../FC2webSite.py:223
+#, python-format
+msgid "Filesize : %d %sByte"
+msgstr "Dosya boyutu : %d %sByte"
+
+#: ../plugin.py:658
+msgid ""
+"GUI needs a restart to apply the changes.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"Değişikliklerin uygulanması için arayüzün yeniden başlatılması gerekiyor.\n"
+"Arayüzü şimdi yeniden başlatmak istiyor musunuz?"
+
+#: ../plugin.py:744
+msgid "Help"
+msgstr "Yardım"
+
+#: ../plugin.py:856
+msgid "Information"
+msgstr "Bilgi"
+
+#: ../plugin.py:736
+msgid "Initial PWM"
+msgstr "Başlangıç PWM"
+
+#: ../plugin.py:735
+msgid "Initial Voltage"
+msgstr "Başlangıç Gerilimi"
+
+#: ../plugin.py:605
+msgid "Logging path"
+msgstr "Günlük yolu"
+
+#: ../FC2webSite.py:242
+#, python-format
+msgid "Logging-Path: %s"
+msgstr "Günlük Yolu: %s"
+
+#: ../plugin.py:439
+#, python-format
+msgid "Max Fan %d rpm at PWM=255 (%s)"
+msgstr "Maks Fan %d rpm @ PWM=255 (%s)"
+
+#: ../plugin.py:461
+#, python-format
+msgid "Max Fan %d rpm at PWM=255 and VLT=255 (%s)"
+msgstr "Maks Fan %d rpm @ PWM=255 ve VLT=255 (%s)"
+
+#: ../plugin.py:477
+#, python-format
+msgid "Max Fan %d rpm at VLT=255 (%s)"
+msgstr "Maks Fan %d rpm @ VLT=255 (%s)"
+
+#: ../plugin.py:427
+#, python-format
+msgid "Min Fan Start %d rpm at PWM=%d"
+msgstr "Min Fan Başlangıcı %d rpm @ PWM=%d"
+
+#: ../plugin.py:469
+#, python-format
+msgid "Min Fan Start %d rpm at VLT=%d"
+msgstr "Min Fan Başlangıcı %d rpm @ VLT=%d"
+
+#: ../plugin.py:451
+#, python-format
+msgid "Min Fan Start %d rpm at VLT=%d and PWM=0"
+msgstr "Min Fan Başlangıcı %d rpm @ VLT=%d ve PWM=0"
+
+#: ../plugin.py:433
+#, python-format
+msgid "Min Fan Stop %d rpm at PWM=%d (%s)"
+msgstr "Min Fan Durması %d rpm @ PWM=%d (%s)"
+
+#: ../plugin.py:472
+#, python-format
+msgid "Min Fan Stop %d rpm at VLT=%d (%s)"
+msgstr "Min Fan Durması %d rpm @ VLT=%d (%s)"
+
+#: ../plugin.py:454
+#, python-format
+msgid "Min Fan Stop %d rpm at VLT=%d and PWM=0 (%s)"
+msgstr "Min Fan Durması %d rpm @ VLT=%d ve PWM=0 (%s)"
+
+#: ../plugin.py:604
+msgid "Number of WebIF-Log-Entries"
+msgstr "WebIF günlük kayıt sayısı"
+
+#: ../plugin.py:834
+#, python-format
+msgid "PID Ctl Err %03.2f %%"
+msgstr "PID Ktr Hata %03.2f %%"
+
+#: ../plugin.py:821
+#, python-format
+msgid "PWM  %03d"
+msgstr "PWM  %03d"
+
+#: ../plugin.py:659
+msgid "Restart GUI now?"
+msgstr "Arayüz şimdi yeniden başlatılsın mı?"
+
+#: ../plugin.py:742
+msgid "Save"
+msgstr "Kaydet"
+
+#: ../FC2webSite.py:85
+msgid "Sensors"
+msgstr "Sensörler"
+
+#: ../plugin.py:600
+msgid "Show Fan Speed as"
+msgstr "Fan hızını şöyle göster"
+
+#: ../plugin.py:602
+msgid "Show Monitor in Extension-Menu"
+msgstr "İzleyiciyi Eklenti menüsünde göster"
+
+#: ../plugin.py:601
+msgid "Show Plugin in Extension-Menu"
+msgstr "Eklentiyi Eklenti menüsünde göster"
+
+#: ../FC2webSite.py:77
+msgid "Speed"
+msgstr "Hız"
+
+#: ../plugin.py:733
+msgid "Static temp C"
+msgstr "Sabit sıcaklık C"
+
+#: ../plugin.py:818
+#, python-format
+msgid "Target rpm  %4d"
+msgstr "Hedef rpm  %4d"
+
+#: ../FC2webSite.py:76
+msgid "Temperature"
+msgstr "Sıcaklık"
+
+#: ../plugin.py:817
+#, python-format
+msgid "Temperature C  %4.1f"
+msgstr "Sıcaklık C  %4.1f"
+
+#: ../FC2webSite.py:78
+msgid "Voltage"
+msgstr "Gerilim"
+
+#: ../plugin.py:820
+#, python-format
+msgid "Voltage  %03d"
+msgstr "Gerilim  %03d"
+
+#: ../FC2webSite.py:171 ../FC2webSite.py:207
+msgid "active"
+msgstr "etkin"
+
+#: ../plugin.py:236
+msgid "auto"
+msgstr "otomatik"
+
+#: ../__init__.py:26
+msgid "below Tunerslot 4"
+msgstr "Tuner yuvası 4 altında"
+
+#: ../plugin.py:1265
+#, python-format
+msgid "currentRPM:%d targetRPM:%d Temp:%4.1f"
+msgstr "mevcutRPM:%d hedefRPM:%d Sıc:%4.1f"
+
+#: ../plugin.py:199 ../plugin.py:208 ../plugin.py:217
+msgid "disabled"
+msgstr "devre dışı"
+
+#: ../plugin.py:226
+msgid "display Info"
+msgstr "Bilgi göster"
+
+#: ../plugin.py:226
+msgid "do nothing"
+msgstr "hiçbir şey yapma"
+
+#: ../plugin.py:597
+msgid "increases overheating protection to (C)"
+msgstr "aşırı ısınma korumasını yükseltir (C)"
+
+#: ../__init__.py:31
+msgid "left near Card-Slot"
+msgstr "Kart yuvasının solu"
+
+#: ../__init__.py:30
+msgid "left near Front-CI"
+msgstr "Ön CI'nın solu"
+
+#: ../__init__.py:29
+msgid "left of the Battery"
+msgstr "Pilin solu"
+
+#: ../plugin.py:732
+msgid "max Speed rpm"
+msgstr "maks Hız rpm"
+
+#: ../plugin.py:731
+msgid "min Speed rpm"
+msgstr "min Hız rpm"
+
+#: ../__init__.py:27
+msgid "near XILINX Spartan"
+msgstr "XILINX Spartan yakını"
+
+#: ../plugin.py:236
+msgid "never"
+msgstr "asla"
+
+#: ../plugin.py:200 ../plugin.py:209 ../plugin.py:218 ../plugin.py:232
+#: ../plugin.py:236
+msgid "no"
+msgstr "hayır"
+
+#: ../FC2webSite.py:177 ../FC2webSite.py:213
+msgid "not active"
+msgstr "etkin değil"
+
+#: ../__init__.py:32
+msgid "over Security Card"
+msgstr "Güvenlik Kartının üzerinde"
+
+#: ../plugin.py:480
+msgid "please set fan type (3Pin or 4Pin)"
+msgstr "lütfen fan türünü ayarlayın (3Pin veya 4Pin)"
+
+#: ../plugin.py:389
+msgid "please wait (until 3min)..."
+msgstr "lütfen bekleyin (3 dakikaya kadar)..."
+
+#: ../plugin.py:561
+msgid "press Info for HDD-Temp"
+msgstr "HDD sıcaklığı için Info'ya basın"
+
+#: ../plugin.py:598
+msgid "read HDD-Temperature in HDD-Standby-Mode"
+msgstr "HDD bekleme modunda HDD sıcaklığını oku"
+
+#: ../plugin.py:856
+msgid "readme.txt"
+msgstr "readme.txt"
+
+#: ../plugin.py:1369
+msgid "setup Fancontol inStandby mode"
+msgstr "Bekleme modunda fan kontrolünü ayarla"
+
+#: ../FC2webSite.py:174 ../FC2webSite.py:210
+msgid "turn off"
+msgstr "kapat"
+
+#: ../FC2webSite.py:180 ../FC2webSite.py:216
+msgid "turn on"
+msgstr "aç"
+
+#: ../__init__.py:33
+msgid "under the Fan"
+msgstr "Fanın altında"
+
+#: ../__init__.py:28
+msgid "under the WLAN"
+msgstr "WLAN'ın altında"
+
+#: ../plugin.py:200 ../plugin.py:209 ../plugin.py:218 ../plugin.py:236
+msgid "yes"
+msgstr "evet"
+
+#: ../plugin.py:200 ../plugin.py:209 ../plugin.py:218
+msgid "yes, Except for Recording or HDD"
+msgstr "evet, Kayıt veya HDD hariç"
